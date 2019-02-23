@@ -6,5 +6,4 @@ The problem of word breaking has attracted many scholars to study this field for
 Breaking parts of name in names without space is useful in a variety of fields, including information retrieval and entity resolution. In the past, methods based on language models have been used in word breaking, the approach of this study is also using unigram and bigram language models. Breaking on a name-specific basis is done in this research for the first time.
 Since the approach used is supervised, to evaluate the performance of the breaking algorithm, train and test datasets are required. The data used in this research is extracted from names in the numerous data collections provided to researchers for free on the Internet. Overall, more that 120 million names from different languages have been collected. Unique tokens in the dataset and the frequency of each occurrence is calculated to produce unigram and bigrams used in this project. Our breaking algorithm performs well with a high accuracy on the test dataset.
 <br />
-![Award](https://github.com/nikiibayat/NameBreaking/blob/master/BestUndergraduateProjectAward.JPG?raw=true)
-<br />
+
